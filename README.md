@@ -5,7 +5,7 @@ Este é um projeto acadêmico desenvolvido em **Python** para realizar a convers
 ## 🚀 Teste Online (Sem instalar nada!)
 Se você deseja testar a calculadora agora mesmo direto pelo seu navegador, basta clicar no botão abaixo:
 
-[![Executar no Repl.it](https://shields.io)](https://replit.com/@adakamyla/BisqueYouthfulKeychanger)
+[![Executar no Repl.it](https://shields.io)](https://replit.com/@adakamyla/BisqueYouthfulKeychanger#calculadora_bases.py)
 
 ---
 
